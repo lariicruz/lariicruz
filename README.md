@@ -3,6 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lariicruz&label=Profile%20views&color=0e75b6&style=flat" alt="lariicruz" /> </p>
 
+- Sou desenvolvedora Java, e atualmente estou estudando também, as seguintes tecnologias:
+- Dart (Flutter)
+- Html/CSS
+- Java Script
+
 - 👨‍💻 Alguns dos meus projetos de teste e podem ser encontrados aqui [https://github.com/lariicruz?tab=repositories](https://github.com/lariicruz?tab=repositories)
 
 - 📫 Caso queira entrar em contato comigo pode ser pelo e-mail *mlp-larissa@hotmail.com*
