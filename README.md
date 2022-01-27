@@ -12,8 +12,6 @@
 
 - 📫 Caso queira entrar em contato comigo pode ser pelo e-mail *mlp-larissa@hotmail.com*
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lariicruz&show_icons=true&locale=en&layout=compact" alt="lariicruz" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lariicruz&show_icons=true&locale=en" alt="lariicruz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lariicruz&" alt="lariicruz" /></p>
