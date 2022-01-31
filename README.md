@@ -1,17 +1,37 @@
-<h1 align="center">Olá 👋, Eu sou Larissa</h1>
-<h3 align="center">Sou Desenvolvedora Java</h3>
+<h1 align="center">Olá! 👋, Eu sou Larissa</h1>
+<h3 align="center">Desenvolvedora Java</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lariicruz&label=Profile%20views&color=0e75b6&style=flat" alt="lariicruz" /> </p>
 
-- Sou desenvolvedora Java, e atualmente estou estudando também, as seguintes tecnologias:
-- Dart (Flutter)
-- Html/CSS
-- Java Script
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="35" height="35" /> <img
+                                                                                                                             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35"/>  <img
+                                                                                                                             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"  width="35" height="35"/> <img
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="35" height="35"/>  <img
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="35" height="35"/> <img
+                                                                                                                          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="35"/>  <img   
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" width="35" height="35"/> <img 
+                                                                                                                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="35" height="35" /> <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="35" height="35"/>
 
-- 👨‍💻 Alguns dos meus projetos de teste e podem ser encontrados aqui [https://github.com/lariicruz?tab=repositories](https://github.com/lariicruz?tab=repositories)
+    
+<br/>
+<br/>
 
-- 📫 Caso queira entrar em contato comigo pode ser pelo e-mail *mlp-larissa@hotmail.com*
+<div>
+<a href="https://github.com/nunespc">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lariicruz&show_icons=true&locale=en&layout=compact&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lariicruz&show_icons=true&theme=dracula&locale=en"/>
+    
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lariicruz&show_icons=true&locale=en" alt="lariicruz" /></p>
+ 
+- 👨‍💻 Alguns dos meus projetos, podem ser encontrados aqui [https://github.com/lariicruz?tab=repositories](https://github.com/lariicruz?tab=repositories)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lariicruz&" alt="lariicruz" /></p>
+  ### Sinta-se a vontade para entrar em contato:
+
+
+<a href = "mailto:mlp-larissa@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/larissa-cruz-b36711217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+
+
+
